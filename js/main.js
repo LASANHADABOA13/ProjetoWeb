@@ -1,3 +1,4 @@
+
 const menu_mobile = document.getElementById('open_m');
 
 function showMenu(){
