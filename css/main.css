@@ -75,13 +75,13 @@ body{
 .contents{
     height: 200px;
     padding: 20px;
-    width: 100%;
+    width: 50%;
 }
 
 .article{
     padding: 0px;
     font-size: 20px;
-    width: 50%;
+    width: 100%;
 }
 
 .article h1{
